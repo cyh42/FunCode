@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1494336256 source:c:\users\dmt\desktop\坦克大战\修正版2\sourcecode\src\list.cpp
+	<Stdio.h>
+	"List.h"
+
+1494336254 c:\users\dmt\desktop\坦克大战\修正版2\sourcecode\header\list.h
+	<Windows.h>
+	"CommonAPI.h"
+
+1494551149 c:\users\dmt\desktop\坦克大战\修正版2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1494559141 source:c:\users\dmt\desktop\坦克大战\修正版2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"stdio.h"
+	"List.h"
+
+1494336256 source:c:\users\dmt\desktop\坦克大战4.0.0\sourcecode\src\list.cpp
+	<Stdio.h>
+	"List.h"
+
+1494336254 c:\users\dmt\desktop\坦克大战4.0.0\sourcecode\header\list.h
+	<Windows.h>
+	"CommonAPI.h"
+
+1494551149 c:\users\dmt\desktop\坦克大战4.0.0\sourcecode\header\commonapi.h
+	<windows.h>
+
+1494566830 source:c:\users\dmt\desktop\坦克大战4.0.0\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"stdio.h"
+	"List.h"
+
+1494568560 source:c:\users\administrator\desktop\坦克大战3.0.0（双人）\sourcecode\src\list.cpp
+	<Stdio.h>
+	"List.h"
+
+1494568560 c:\users\administrator\desktop\坦克大战3.0.0（双人）\sourcecode\header\list.h
+	<Windows.h>
+	"CommonAPI.h"
+
+1494568560 c:\users\administrator\desktop\坦克大战3.0.0（双人）\sourcecode\header\commonapi.h
+	<windows.h>
+
+1494643111 source:c:\users\administrator\desktop\坦克大战3.0.0（双人）\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"stdio.h"
+	"List.h"
+
+1494568560 source:c:\users\administrator\desktop\坦克大战3.1（双人）\sourcecode\src\list.cpp
+	<Stdio.h>
+	"List.h"
+
+1494568560 c:\users\administrator\desktop\坦克大战3.1（双人）\sourcecode\header\list.h
+	<Windows.h>
+	"CommonAPI.h"
+
+1494568560 c:\users\administrator\desktop\坦克大战3.1（双人）\sourcecode\header\commonapi.h
+	<windows.h>
+
+1494673746 source:c:\users\administrator\desktop\坦克大战3.1（双人）\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"stdio.h"
+	"List.h"
+
+1420212242 source:c:\users\administrator\desktop\坦克大战3.1（双人）\sourcecode\icon.rc
+
+1494680666 source:c:\users\dmt\desktop\坦克大战3.2（双人、有背景音乐）\sourcecode\src\list.cpp
+	<Stdio.h>
+	"List.h"
+
+1494680666 c:\users\dmt\desktop\坦克大战3.2（双人、有背景音乐）\sourcecode\header\list.h
+	<Windows.h>
+	"CommonAPI.h"
+
+1494680666 c:\users\dmt\desktop\坦克大战3.2（双人、有背景音乐）\sourcecode\header\commonapi.h
+	<windows.h>
+
+1494840277 source:c:\users\dmt\desktop\坦克大战3.2（双人、有背景音乐）\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"stdio.h"
+	"List.h"
+
