@@ -1,0 +1,10 @@
+# Microsoft Developer Studio Generated Dependency File, included by VCProjectVC6.mak
+
+..\..\Src\Main.cpp : \
+	"..\..\header\commonapi.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\VCTemplate.rc : \
+	"..\..\Icon.ico"\
+	

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1494336256 source:c:\users\dmt\desktop\坦克大战\修正版2\sourcecode\src\list.cpp
+	<Stdio.h>
+	"List.h"
+
+1494336254 c:\users\dmt\desktop\坦克大战\修正版2\sourcecode\header\list.h
+	<Windows.h>
+	"CommonAPI.h"
+
+1494551149 c:\users\dmt\desktop\坦克大战\修正版2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1494559141 source:c:\users\dmt\desktop\坦克大战\修正版2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"stdio.h"
+	"List.h"
+

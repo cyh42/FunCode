@@ -1,0 +1,87 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: VCProjectVC6 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\dzxx\LOCALS~1\Temp\RSPDB.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /I "../../Header" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/VCProjectVC6.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\dzxx\LOCALS~1\Temp\RSPDB.tmp" 
+Creating temporary file "C:\DOCUME~1\dzxx\LOCALS~1\Temp\RSPDC.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Winmm.lib ..\..\Src\CommonAPI_VC6.Lib /nologo /subsystem:windows /incremental:no /pdb:"Debug/Game.pdb" /debug /machine:I386 /out:"..\..\..\Bin\Game.exe" /pdbtype:sept 
+".\Debug\List.obj"
+".\Debug\Main.obj"
+".\Debug\VCTemplate.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\dzxx\LOCALS~1\Temp\RSPDC.tmp"
+<h3>Output Window</h3>
+Compiling...
+Main.cpp
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(72) : error C2065: 'g_pMyTank' : undeclared identifier
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(72) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(79) : error C2227: left of '->iHp' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(166) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(167) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(168) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(237) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(247) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(280) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(325) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(327) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(363) : warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(376) : error C2227: left of '->iDir' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(377) : error C2227: left of '->fSpeedX' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(378) : error C2227: left of '->fSpeedY' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(381) : error C2227: left of '->iDir' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(382) : error C2227: left of '->fSpeedX' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(383) : error C2227: left of '->fSpeedY' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(386) : error C2227: left of '->iDir' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(387) : error C2227: left of '->fSpeedX' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(388) : error C2227: left of '->fSpeedY' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(391) : error C2227: left of '->iDir' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(392) : error C2227: left of '->fSpeedX' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(393) : error C2227: left of '->fSpeedY' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(402) : error C2227: left of '->fSpeedY' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(405) : error C2227: left of '->fSpeedX' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(408) : error C2227: left of '->fSpeedY' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(411) : error C2227: left of '->fSpeedX' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(416) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(416) : error C2227: left of '->iDir' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(417) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(417) : error C2227: left of '->fSpeedX' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(417) : error C2227: left of '->fSpeedY' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(424) : warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(447) : warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(496) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(497) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(507) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(508) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(518) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(519) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(529) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(530) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(547) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(549) : error C2227: left of '->szName' must point to class/struct/union
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(669) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(706) : warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(744) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(749) : warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(788) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(793) : warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(832) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\dzxx\桌面\修正版2\SourceCode\Src\Main.cpp(837) : warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+Game.exe - 34 error(s), 19 warning(s)
+</pre>
+</body>
+</html>
